@@ -1,2 +1,2 @@
-# spam_mail_prediction
+# spam_mail_detection
 Developed an efficient spam email detection system using logistic regression. 
